@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kunj278/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kunj278/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Kunj278/Leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kunj278/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Kunj278/Leetcode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Kunj278/Leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kunj278/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Kunj278/Leetcode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
