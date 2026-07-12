@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kunj278/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Kunj278/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kunj278/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunj278/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kunj278/Leetcode/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kunj278/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
