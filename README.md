@@ -72,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kunj278/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kunj278/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Kunj278/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kunj278/Leetcode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Kunj278/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
@@ -94,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Kunj278/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Kunj278/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunj278/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunj278/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Kunj278/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
