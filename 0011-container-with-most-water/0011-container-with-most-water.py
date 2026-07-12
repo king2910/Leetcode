@@ -1,9 +1,5 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        if len(height)==1:
-            return 0
-        elif len(height)==2:
-            return min(height)
         l=0
         r=len(height)-1
         m=0
