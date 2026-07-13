@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Kunj278/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Kunj278/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kunj278/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Kunj278/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunj278/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kunj278/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kunj278/Leetcode/tree/master/0137-single-number-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Kunj278/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunj278/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
