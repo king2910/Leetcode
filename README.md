@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunj278/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kunj278/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Kunj278/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Kunj278/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Kunj278/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kunj278/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kunj278/Leetcode/tree/master/0075-sort-colors) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kunj278/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Kunj278/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kunj278/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kunj278/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
@@ -130,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kunj278/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Kunj278/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
