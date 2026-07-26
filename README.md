@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Kunj278/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kunj278/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Kunj278/Leetcode/tree/master/0326-power-of-three) |
+| [0492-construct-the-rectangle](https://github.com/Kunj278/Leetcode/tree/master/0492-construct-the-rectangle) |
 ## String
 |  |
 | ------- |
