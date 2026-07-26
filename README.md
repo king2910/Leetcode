@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kunj278/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kunj278/Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunj278/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Kunj278/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Kunj278/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kunj278/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kunj278/Leetcode/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kunj278/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Kunj278/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Kunj278/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Kunj278/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kunj278/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kunj278/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kunj278/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kunj278/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunj278/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Kunj278/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Kunj278/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Kunj278/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kunj278/Leetcode/tree/master/0268-missing-number) |
