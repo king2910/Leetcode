@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Kunj278/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Kunj278/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Kunj278/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Kunj278/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Kunj278/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kunj278/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kunj278/Leetcode/tree/master/0075-sort-colors) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kunj278/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Kunj278/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Kunj278/Leetcode/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kunj278/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kunj278/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Kunj278/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Kunj278/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kunj278/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Kunj278/Leetcode/tree/master/0867-transpose-matrix) |
 ## Linked List
