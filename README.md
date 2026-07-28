@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kunj278/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Kunj278/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kunj278/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Kunj278/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Kunj278/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kunj278/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kunj278/Leetcode/tree/master/0283-move-zeroes) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Kunj278/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Kunj278/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Kunj278/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
