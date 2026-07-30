@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Kunj278/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Kunj278/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Kunj278/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Kunj278/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Kunj278/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Kunj278/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kunj278/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kunj278/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Kunj278/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Kunj278/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Kunj278/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Kunj278/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Kunj278/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Kunj278/Leetcode/tree/master/0229-majority-element-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Kunj278/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Kunj278/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Kunj278/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kunj278/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kunj278/Leetcode/tree/master/0217-contains-duplicate) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunj278/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Kunj278/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Kunj278/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Kunj278/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kunj278/Leetcode/tree/master/0151-reverse-words-in-a-string) |
