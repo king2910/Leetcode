@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kunj278/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Kunj278/Leetcode/tree/master/0326-power-of-three) |
 | [0492-construct-the-rectangle](https://github.com/Kunj278/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Kunj278/Leetcode/tree/master/0504-base-7) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kunj278/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kunj278/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Kunj278/Leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Kunj278/Leetcode/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/Kunj278/Leetcode/tree/master/0504-base-7) |
 ## Greedy
 |  |
 | ------- |
