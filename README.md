@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Kunj278/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Kunj278/Leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Kunj278/Leetcode/tree/master/0867-transpose-matrix) |
+| [1089-duplicate-zeros](https://github.com/Kunj278/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/Kunj278/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunj278/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kunj278/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Kunj278/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kunj278/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Kunj278/Leetcode/tree/master/0443-string-compression) |
+| [1089-duplicate-zeros](https://github.com/Kunj278/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
