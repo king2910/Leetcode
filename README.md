@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Kunj278/Leetcode/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/Kunj278/Leetcode/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/Kunj278/Leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Kunj278/Leetcode/tree/master/0796-rotate-string) |
 ## Greedy
 |  |
 | ------- |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kunj278/Leetcode/tree/master/0496-next-greater-element-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Kunj278/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
