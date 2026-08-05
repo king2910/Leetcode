@@ -3,9 +3,9 @@ class Solution:
         r=int(c**(0.5))
         l=0
         while l<=r:
-            if l**2 + r**2==c:
+            if l*l + r*r==c:
                 return True
-            elif l**2 + r**2<c:
+            elif l*l + r*r<c:
                 l+=1
             else:
                 r-=1
