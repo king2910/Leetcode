@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Kunj278/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Kunj278/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Kunj278/Leetcode/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/Kunj278/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1089-duplicate-zeros](https://github.com/Kunj278/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kunj278/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kunj278/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kunj278/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Kunj278/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kunj278/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Kunj278/Leetcode/tree/master/0326-power-of-three) |
 | [0492-construct-the-rectangle](https://github.com/Kunj278/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Kunj278/Leetcode/tree/master/0504-base-7) |
+| [0633-sum-of-square-numbers](https://github.com/Kunj278/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kunj278/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Kunj278/Leetcode/tree/master/1323-maximum-69-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kunj278/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
