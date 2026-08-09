@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunj278/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Kunj278/Leetcode/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Kunj278/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/Kunj278/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1089-duplicate-zeros](https://github.com/Kunj278/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Kunj278/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Kunj278/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/Kunj278/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Kunj278/Leetcode/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kunj278/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Kunj278/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kunj278/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunj278/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Kunj278/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/Kunj278/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kunj278/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Kunj278/Leetcode/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/Kunj278/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Kunj278/Leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Kunj278/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1678-goal-parser-interpretation](https://github.com/Kunj278/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Kunj278/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Greedy
