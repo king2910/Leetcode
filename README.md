@@ -326,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kunj278/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Kunj278/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Kunj278/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
