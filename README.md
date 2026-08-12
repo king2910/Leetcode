@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kunj278/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kunj278/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kunj278/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Kunj278/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Kunj278/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunj278/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kunj278/Leetcode/tree/master/0136-single-number) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kunj278/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Kunj278/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Kunj278/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kunj278/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Kunj278/Leetcode/tree/master/0190-reverse-bits) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Kunj278/Leetcode/tree/master/0595-big-countries) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kunj278/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
