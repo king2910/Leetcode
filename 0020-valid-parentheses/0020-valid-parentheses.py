@@ -1,33 +1,16 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack=[]
+        p1={"(":0,"[":1,"{":2}
+        p2={")":0,"]":1,"}":2}
         for char in s:
-            if char in '({[':
-                if char=='(':
-                    stack.append(1)
-                elif char=='{':
-                    stack.append(2)
-                else:
-                    stack.append(3)
-            elif not stack:
-                return False
+            if char in p1:
+                stack.append(p1[char])
             else:
-                if char==')':
-                    if stack[-1]==1:
-                        stack.pop()
-                    else:
-                        return False
-                elif char=='}':
-                    if stack[-1]==2:
-                        stack.pop()
-                    else:
-                        return False
+                if len(stack)==0:
+                    return False
+                if stack[-1]==p2[char]:
+                    stack.pop()
                 else:
-                    if stack[-1]==3:
-                        stack.pop()
-                    else:
-                        return False
-        if not stack:
-            return True
-        else:
-            return False        
+                    return False
+        return len(stack)==0
