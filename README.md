@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Kunj278/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunj278/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Kunj278/Leetcode/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/Kunj278/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Kunj278/Leetcode/tree/master/0326-power-of-three) |
 | [0492-construct-the-rectangle](https://github.com/Kunj278/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Kunj278/Leetcode/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/Kunj278/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Kunj278/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kunj278/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Kunj278/Leetcode/tree/master/1323-maximum-69-number) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Kunj278/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Kunj278/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kunj278/Leetcode/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/Kunj278/Leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -340,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunj278/Leetcode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kunj278/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
