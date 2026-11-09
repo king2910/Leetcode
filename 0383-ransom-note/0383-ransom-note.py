@@ -1,14 +1,6 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        fm={}
-        for i in magazine:
-            if i in fm:
-                fm[i]+=1
-            else:
-                fm[i]=1
-        for i in ransomNote:
-            if i in fm and fm[i]>0:
-                fm[i]-=1
-            else:
+        for char in set(ransomNote):
+            if ransomNote.count(char) > magazine.count(char):
                 return False
-        return True            
+        return True          
