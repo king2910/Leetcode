@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kunj278/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kunj278/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kunj278/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1496-path-crossing](https://github.com/Kunj278/Leetcode/tree/master/1496-path-crossing) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Kunj278/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3731-find-missing-elements](https://github.com/Kunj278/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Kunj278/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Kunj278/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Kunj278/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1496-path-crossing](https://github.com/Kunj278/Leetcode/tree/master/1496-path-crossing) |
 | [1678-goal-parser-interpretation](https://github.com/Kunj278/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Kunj278/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Greedy
